@@ -132,7 +132,7 @@ To install the library, you can use `pip`::
 
     $ pip install upsetplot-bombcell
 
-or:
+or::
 
     $ pip install git+https://github.com/Julie-Fabre/UpSetPlot.git
 
